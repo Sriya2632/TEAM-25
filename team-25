@@ -1,0 +1,6 @@
+#include<studio.in>
+int main()
+{
+printf("hello world");
+return 0;
+}
